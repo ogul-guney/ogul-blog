@@ -1,0 +1,6 @@
+{
+  "name": "Oğul Minimal Blog",
+  "description": "Minimalist kişisel micro-blog ve dev-log sitesi. Cihazlar arası bulut senkronizasyonu, arama, arşiv ve Netlify uyumlu dağıtım.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
